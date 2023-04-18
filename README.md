@@ -25,7 +25,7 @@ To run the project:
 * Interact with the visuals to gain insights into the performance of the Olist store.
 
 Data
-The data for this project is provided by Olist, a Brazilian e-commerce platform that connects small businesses to marketplaces. The dataset includes customer data, geolocation data, product data, payment data and more.
+* The data for this project is provided by Olist, a Brazilian e-commerce platform that connects small businesses to marketplaces. The dataset includes customer data, geolocation data, product data, payment data and more.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
