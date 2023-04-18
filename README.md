@@ -20,11 +20,13 @@ Import the data into Power BI.
 Usage
 To run the project:
 
-Open the Power BI file 'Olist_Store_Data_Analysis.pbix'.
-The report will be displayed with visuals, charts, and tables.
-Interact with the visuals to gain insights into the performance of the Olist store.
+* Open the Power BI file 'Olist_Store_Data_Analysis.pbix'.
+* The report will be displayed with visuals, charts, and tables.
+* Interact with the visuals to gain insights into the performance of the Olist store.
+
 Data
 The data for this project is provided by Olist, a Brazilian e-commerce platform that connects small businesses to marketplaces. The dataset includes customer data, geolocation data, product data, payment data and more.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/104004284/232883122-116bf9bd-7e43-45ff-abdf-08a62ac98e59.png)
